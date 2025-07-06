@@ -1,6 +1,6 @@
 
 
-````markdown
+
 # 🤬 The "I’m DONE With Setup" React Starter Pack
 
 > React + Vite + Tailwind + DaisyUI + React Router  
